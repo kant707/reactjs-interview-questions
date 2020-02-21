@@ -1,8 +1,4 @@
-<style>
-  h3:hover svg {
-    display: none
-  }
-</style>
+
 # React Interview Questions & Answers
 
 ## Core React

@@ -1,10 +1,9 @@
 # React Interview Questions & Answers
 
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-output: 
   html_document:
      css: /css/style.css
-     self_contained: no
+     self_contained: yes
 ### Table of Contents
 
 | No. | Questions |
